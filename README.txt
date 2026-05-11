@@ -1,7 +1,7 @@
 This is accompanying material for the pater "Early Incorporation of Atmophile
-Elements in Planetary magma ocean via Bubble–Metal Compounds" by Fabrice
-Gaillard, Luiz Pereira, Laurent Arbaret, Giada Iacono-Marziano and Yves
-Marrocchi.
+Elements in Planetary magma ocean via Bubble–Metal Compounds" by Fabrice 
+Gaillard, Luiz Pereira, Laurent Arbaret, Giada Iacono-Marziano, 
+Emmanuel Le Trong, Fabien Bernadou, and Yves Marrocchi, submitted to Science.
 
 To generate the figures and the PDF document, type `make` from within the 
 directory.
