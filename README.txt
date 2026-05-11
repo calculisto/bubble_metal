@@ -1,4 +1,4 @@
-This is accompanying material for the pater "Early Incorporation of Atmophile
+This is accompanying material for the paper "Early Incorporation of Atmophile
 Elements in Planetary magma ocean via Bubble–Metal Compounds" by Fabrice 
 Gaillard, Luiz Pereira, Laurent Arbaret, Giada Iacono-Marziano, 
 Emmanuel Le Trong, Fabien Bernadou, and Yves Marrocchi, submitted to Science.
